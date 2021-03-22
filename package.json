@@ -1,0 +1,32 @@
+{
+    "name": "@ts-core/two-fa-totp",
+    "version": "1.0.0",
+    "description": "Classes and utils for TOTP 2FA",
+    "main": "index.js",
+    "scripts": {},
+    "author": {
+        "name": "Renat Gubaev",
+        "email": "renat.gubaev@gmail.com"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "speakeasy": "2.0.0",
+        "@ts-core/common": "^1.0.161",
+        "@ts-core/two-fa": "^1.0.2",
+        "@ts-core/two-fa-backend": "^1.0.6"
+    },
+    "devDependencies": {
+        "gulp-npm-publisher": "1.0.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ManhattanDoctor/ts-core-two-fa-totp.git"
+    },
+    "keywords": [
+        "typescript"
+    ],
+    "bugs": {
+        "url": "https://github.com/ManhattanDoctor/ts-core-two-fa-totp/issues"
+    },
+    "homepage": "https://github.com/ManhattanDoctor/ts-core-two-fa-totp#readme"
+}
