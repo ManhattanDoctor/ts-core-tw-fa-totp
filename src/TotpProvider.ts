@@ -10,7 +10,7 @@ export class TotpProvider extends LoggerWrapper implements ITwoFaProvider<ITotpC
     //  Constructor
     //
     // --------------------------------------------------------------------------
-
+    
     constructor(logger: ILogger, protected options: ITotpOptions) {
         super(logger);
     }
